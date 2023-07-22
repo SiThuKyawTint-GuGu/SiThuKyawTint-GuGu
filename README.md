@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SiThuKyawTint-GuGu&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TripleKay&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiThuKyawTint-GuGu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TripleKay&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SiThuKyawTint-GuGu&icon=2&color=12)](https://visitcount.itsvg.in)
