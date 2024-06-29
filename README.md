@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **IoT Sensor Device**
 
-- 🌱 I’m currently learning **Ansible,Terraform ,Jenkins ,Ansible and Grafana**
+- 🌱 I’m currently learning **Ansible,Terraform ,Jenkins ,Ansible ,Prometheus and Grafana**
 
 - 👨‍💻 All of my projects are available at [https://sithukyawtint.vercel.app/](https://sithukyawtint.vercel.app/)
 
