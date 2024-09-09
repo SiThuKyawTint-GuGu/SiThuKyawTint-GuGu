@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sithukyawtint.vercel.app/](https://sithukyawtint.vercel.app/)
 
-- 📫 How to reach me **guguskyler@gmail.com**
+- 📫 How to reach me **sithukyawtintgugu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
