@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🫡, I'm Si Thu Kyaw Tint</h1>
-<h3 align="center">A constantly busy developer from Myanmar</h3>
+<h3 align="center">A hardworking developer from Myanmar who is always busy</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/e5/4e/16e54edd7640bd535e7cce8672680156.gif" alt="Cat Working">
